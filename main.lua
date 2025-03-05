@@ -243,3 +243,4 @@ shared.Saved = {
 }
  
 mooze_secure_script("MTEyMTM0NDEyNDE1MjE1MXNkZmdkc2dnZHNnc2hzaHNoZGdzZHNoZw==")
+print("HI")
